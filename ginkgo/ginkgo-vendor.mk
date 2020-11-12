@@ -2316,4 +2316,5 @@ PRODUCT_PACKAGES += \
     WfdService \
     WfdCommon \
     com.qti.snapdragon.sdk.display \
-    vendor.qti.hardware.soter-V1.0-java
+    vendor.qti.hardware.soter-V1.0-java \
+    qti-telephony-common
