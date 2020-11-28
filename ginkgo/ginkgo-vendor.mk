@@ -2251,7 +2251,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libantradio \
     libMpeg4SwEncoder \
-    libplatformconfig \
     vendor.qti.hardware.fm@1.0 \
     CneApp \
     FingerprintExtensionService \
